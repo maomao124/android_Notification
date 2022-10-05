@@ -20,4 +20,16 @@
             android:layout_height="wrap_content"
             android:text="发送通知 带意图" />
 
+    <Button
+            android:id="@+id/Button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="发送通知 同一id" />
+
+    <Button
+            android:id="@+id/Button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="发送通知 带大图标" />
+
 </LinearLayout>
